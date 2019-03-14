@@ -1,4 +1,4 @@
-1. Il faut d'abord faire une petite installation pour utilise gspread, une librairie pour parler à Google Spreadsheets à partir de Python. [Suivre les instructions ici] (https://gspread.readthedocs.io/en/latest/oauth2.html). 
+1. Il faut d'abord faire une petite installation pour utilise gspread, une librairie pour parler à Google Spreadsheets à partir de Python. [Suivre les instructions ici](https://gspread.readthedocs.io/en/latest/oauth2.html). 
 
 2. Puis après ce petit bout de code dans votre vous permettra de récupérer le data : 
 
