@@ -4,5 +4,5 @@
 
 3. Puis mettre le script dans vingt48.py dans la query python. 
 
-** ça vaut la peine de désactiver le load
+** petite roche sur le chargement pour prévisualisation
 
