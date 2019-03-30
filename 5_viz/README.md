@@ -11,7 +11,7 @@ Le code de chaque visualisation est diponible dans un .pbix avec le nom de la vi
 *Les visualisations sont séparées en plusieurs .pbix parce que j'expérimente un clash quand j'ai plus d'une visualisation Python dans le même pbix... C'est une limitation importante*
 
 ### Autres exemples 
-* Voir la galerie d'exemples de: 
-..* Seaborn : http://seaborn.pydata.org/examples/index.html
-..* Matplotlib : https://matplotlib.org/gallery/index.html 
+* Voir la galerie d'exemples de
+    * Seaborn : http://seaborn.pydata.org/examples/index.html
+    * Matplotlib : https://matplotlib.org/gallery/index.html 
 
