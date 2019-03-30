@@ -32,4 +32,4 @@ rows = sheet1.get_all_values()
 df = pd.DataFrame.from_records(rows)
 ```
 
-fichier .py avec le code à mettre dans le power query 
+Préférablement aller chercher le code directement dans le fichier import_df.py
