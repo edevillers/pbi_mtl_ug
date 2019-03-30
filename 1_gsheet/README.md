@@ -1,3 +1,7 @@
+## Récupérer des données d'un Google Spreadsheet via authentification
+
+Cette méthode vous permet de récupérer des données d'un Google Spreadsheet et des les importer dans un rapport Power Bi, **sans devoir rendre votre Google Spreadsheet public**. 
+
 1. Il faut d'abord faire une petite installation pour utiliser gspread, une librairie pour parler à Google Spreadsheets à partir de Python. [Suivre les instructions ici](https://gspread.readthedocs.io/en/latest/oauth2.html). 
 
 2. Puis après ce petit bout de code dans votre vous permettra de récupérer le data : 
