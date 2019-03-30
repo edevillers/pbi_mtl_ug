@@ -12,6 +12,6 @@ Le code de chaque visualisation est diponible dans un .pbix avec le nom de la vi
 
 ### Autres exemples 
 * Voir la galerie d'exemples de: 
-    ..* Seaborn : http://seaborn.pydata.org/examples/index.html
-    ..* Matplotlib : https://matplotlib.org/gallery/index.html 
+    ** Seaborn : http://seaborn.pydata.org/examples/index.html
+    ** Matplotlib : https://matplotlib.org/gallery/index.html 
 
